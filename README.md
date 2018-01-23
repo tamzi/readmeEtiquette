@@ -15,3 +15,6 @@ Some articles on a great ReadMe.
 Sample ReadMes
 
  1. [Bacon.js ReadMe](https://github.com/baconjs/bacon.js)
+best of the pick:
+
+[ReamMe Master Templates](https://github.com/tamzi/ReadMe-MasterTemplates) COntains a combination of starter projects for great ReadMe files. Just copy paste.
